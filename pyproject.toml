@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "usha1"
+version = "0.1.0"
+description = "Educational SHA-256 clone in pure Python"
+authors = [{name = "Elementary-Penguin"}]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.7"
